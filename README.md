@@ -12,7 +12,7 @@ This is an Angular 5 project created using [Angular CLI](https://github.com/angu
 * The product name is binded in rows, ship country and ship city are binded in Columns, quantity and unit price are binded in value axis.
 
 ## How to run this application?
-To run this application, you need to first clone the `ej2-angular-6-pivot-table` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, you need to first clone the `ej2-angular-5-pivot-table` repository and then navigate to its appropriate path where it has been located in your system.
 
 To do so, open the command prompt and run the below commands one after the other.
 
